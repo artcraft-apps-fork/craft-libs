@@ -106,6 +106,7 @@ craft-mcp = { path = "crates/mcp" }
 craft-jxl = { path = "crates/jxl" }
 craft-kiwi = { path = "crates/kiwi" }
 craft-keymap = { path = "crates/keymap" }
+craft-modal = { path = "crates/modal" }
 craft-assuan = { path = "crates/assuan" }
 craft-kra = { path = "crates/kra" }
 craft-audio = { path = "crates/audio" }

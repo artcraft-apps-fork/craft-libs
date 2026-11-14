@@ -2256,6 +2256,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "craft-modal"
+version = "0.1.0"
+dependencies = [
+ "egui",
+ "serde",
+ "serde_json",
+]
+
+[[package]]
 name = "craft-odf"
 version = "0.1.0"
 dependencies = [
